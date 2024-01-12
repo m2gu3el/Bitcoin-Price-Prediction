@@ -31,5 +31,9 @@ Predicting Bitcoin prices is tough because the market can be very unpredictable.
 3. Matplotlib
 4. NumPy
 5. Scikit-learn (Sklearn)
-   
+
+## Dataset 
+Link- https://finance.yahoo.com/quote/BTC-USD/history/
+Timeperiod - 2014-12-12 to 2023-12-12
+
 
